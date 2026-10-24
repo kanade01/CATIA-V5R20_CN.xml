@@ -20,7 +20,7 @@ CATIA 以**文件名**作为标准名称，因此装入后标准列表中会直�
 1. **备份**现有标准目录（只需做一次）：
 
    ```
-   D:\CATIA V5 R20\Dassault Systemes\B20\intel_a\resources\standard\drafting\
+   CATIA V5 R20\Dassault Systemes\B20\intel_a\resources\standard\drafting\
    ```
 
    把整个 `drafting` 文件夹复制一份，例如复制为 `drafting_backup`。
@@ -28,7 +28,7 @@ CATIA 以**文件名**作为标准名称，因此装入后标准列表中会直�
 2. **复制** `GB.xml` 到该目录，与 `ISO.xml`、`ANSI.xml`、`JIS.xml` 等并列：
 
    ```
-   D:\CATIA V5 R20\Dassault Systemes\B20\intel_a\resources\standard\drafting\GB.xml
+   CATIA V5 R20\Dassault Systemes\B20\intel_a\resources\standard\drafting\GB.xml
    ```
 
 3. **重启 CATIA**，然后任选一种方式选用 GB：
